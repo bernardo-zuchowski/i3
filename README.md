@@ -11,6 +11,6 @@ sudo apt nitrogen
 ```
 ## Setup
 ```shell
-git clone git@github.com:bernardo-zuchowski/i3.git ~/.config/i3
+git clone git@github.com:bernardo-zuchowski/i3.git ~/.config
 ```
 
